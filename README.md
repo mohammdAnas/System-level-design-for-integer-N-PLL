@@ -1,5 +1,8 @@
 # System-level-design-for-integer-N-PLL
 A Python script developed to calculate PLL system dynamic parameters and size the passive filter components (R1, C1, C2), and computes the required Charge Pump current for optimal stability.
+### NOTE
+**This script is designed to provide a **very good starting point** based on ideal mathematical equations.**  
+**you must take these calculated values into Cadence Virtuoso (or any simulator) and perform fine-tuning and optimization based on your deep understanding of PLL architecture**
 
 ## Features & Automation Workflow
 
